@@ -1,0 +1,110 @@
+Timestamp,id,name,Year,Email,dateofbirth,timeofbirth,placeofbirth,gender,branch, 
+21/02/2024 23:24:35,0,Kapil Santosh Surve,T.E,Kapilsurve79@gmail.com,03/06/2003,13:04:00,Mumbai,Male,C.S.E AI&ML
+21/02/2024 23:47:34,1,Viraj Raicha ,T.E,Virajtraicha@gmail.com,20/08/2003,21:00:00,Bhiwandi ,Male,COMPUTER
+22/02/2024 19:10:40,2,Ratnakar Pisal ,T.E,ratnakardeshmukh03@gmail.com,03/08/2003,09:00:00,Panvel ,Male,C.S.E AI&ML
+22/02/2024 19:52:01,3,Shreya Sunil poojary ,T.E,Shreyapoojary267@gmail.com,27/01/2004,01:51:00,Thane ,Female,C.S.E AI&ML
+22/02/2024 20:53:34,4,Ashish Vishwakarma ,F.E,ashishapsit@gmail.com,28/02/2004,08:23:00,Mumbai,Male,C.S.E AI&ML
+22/02/2024 21:49:40,5,Tejaswini T,T.E,21102102.tejaswini.todkar@gmail.com,11/07/2003,05:30:00,Nagpur,Female,COMPUTER
+22/02/2024 21:59:10,6,Arya Patil,T.E,patilarya3133@gmail.com,04/10/2003,18:00:00,Thane,Male,C.S.E DS
+23/02/2024 10:40:08,7,Areen Uttam Kolekar,T.E,areenkolekar2@gmail.com,15/02/2003,05:00:00,Solapur,Male,COMPUTER
+24/02/2024 21:11:01,8,Kunal Chandrakant Pingulkar ,F.E,kunalpingulkar20@gmail.com,20/11/2005,20:00:00,Mumbai ,Male,COMPUTER
+25/02/2024 11:00:40,9,Siddibapa Mohammad Jarjish Suleman,T.E,jarjishsiddibapa@gmail.com,14/01/2004,16:15:00,Bhiwandi,Male,COMPUTER
+25/02/2024 16:53:57,10,Kavish Rakeshkumar Jain,F.E,Kaven.jane08@gmail.com,08/06/2005,10:50:00,Udaipur,Male,C.S.E AI&ML
+25/02/2024 17:49:45,11,Jyoti Samir Sahu ,F.E,23102036@apsit.edu.in,26/07/2004,00:32:00,Mumbai,Female,COMPUTER
+25/02/2024 18:33:09,12,Soham Jathar ,F.E,sohamjathar1316@gmail.com,01/12/2005,15:02:00,Mumbai,Male,C.S.E AI&ML
+25/02/2024 18:39:58,13,Onkar,F.E,"onkard0609@gmail.com
+",06/09/2005,08:30:00,Sonand,Male,C.S.E AI&ML
+25/02/2024 19:56:23,14,Himanshu Umesh Kalwa ,F.E,kalwahimu21@gmail.com,21/03/2005,10:00:00,Jodhpur ,Male,C.S.E DS
+25/02/2024 20:44:53,15,Kaushal Tushar Deshmukh ,F.E,kaushaldesh05@gmail.com,30/08/2005,09:35:00,Thane,Male,MECHANICAL
+25/02/2024 21:52:18,16,Aachal pandey ,F.E,achalpandey2611@gmail.com,26/11/2005,19:34:00,Mumbai,Female,C.S.E AI&ML
+25/02/2024 22:34:01,17,Meet Jamsutkar ,T.E,meetjamsutkar645@apsit.edu.in,01/04/2004,09:30:00,Mulund east,Male,C.S.E DS
+25/02/2024 22:36:07,18,Sumedh Sushil Nair,S.E,nairsumedh@gmail.com,21/02/2004,14:40:00,Thane,Male,IT
+25/02/2024 22:36:32,19,Gitanjali Salvi,S.E,gitanjalisalvi2004@gmail.com,23/10/2004,17:22:00,"Roha, Raigad",Female,COMPUTER
+25/02/2024 22:36:59,20,Anisha Lalitkumar Gaur,S.E,Gauranisha053@gmail.com ,13/07/2004,04:00:00,Mumbai,Female,IT
+25/02/2024 22:43:18,21,Tulsi Dubey,S.E,Tulsix2004@gmail.com,22/11/2004,02:00:00,Mumbai,Female,C.S.E AI&ML
+25/02/2024 22:55:35,22,Prathamesh kolhe ,F.E,prathamesh.kolhe7905@gmail.com,07/09/2005,02:40:00,Ahmednagar ,Male,C.S.E AI&ML
+26/02/2024 11:11:40,23,Vivek Maurya,F.E,vm0386376@gmail.com,11/08/2005,05:45:00,Bhiwandi,Male,COMPUTER
+26/02/2024 11:12:13,24,Dharmendra Maurya,F.E,minduru8983830336@gmail.com,18/08/2006,05:28:00,Up,Male,IT
+26/02/2024 11:13:30,25,Mihir Mehta ,F.E,mihirmehta897@gmail.com,25/11/2005,12:26:00,Uran ,Male,COMPUTER
+26/02/2024 11:13:37,26,Avishkar Paradkar ,F.E,23102005@apsit.edu.in,14/06/2005,08:30:00,Dombivli ,Male,COMPUTER
+26/02/2024 11:37:38,27,Om Ajay Date,F.E,23102002@apsit.edu.in,03/01/2005,15:00:00,Badlapur,Male,COMPUTER
+26/02/2024 11:46:50,28,Somil Hiren Dedhiya,F.E,somilhd19@gmail.com,19/08/2005,10:10:00,Bandra mumbai,Male,COMPUTER
+26/02/2024 11:48:21,29,Uday Ujjwal Dutta ,F.E,23102081@apsit.edu.in,30/06/2005,22:20:00,Mumbai,Male,COMPUTER
+26/02/2024 16:12:14,30,Kavish Jain ,F.E,Kaven.jane08@gmail.com,08/06/2005,10:50:00,Mumbai,Male,C.S.E AI&ML
+28/02/2024 15:45:05,31,Gayatri Mahajan ,F.E,23102009@apsit.edu.in,13/07/2005,07:45:00,Satara,Female,COMPUTER
+05/08/2024 13:59:07,32,Ekta Panchal ,B.E,panchalekta2003@gmail.com,19/08/2003,09:00:00,Ahemdabad ,Female,C.S.E DS
+05/08/2024 14:05:09,33,Srushti satish Pawar ,B.E,21102086.srushtipawar@gmail.com ,29/06/2003,02:00:00,Ahmednagar ,Female,COMPUTER
+05/08/2024 14:20:33,34,Ritesh pandey,S.E,23106058@apsit.edu.in,15/09/2004,06:00:00,Bhiwandi,Male,C.S.E AI&ML
+05/08/2024 14:27:13,35,Nehali,B.E,Nehalipalkar123@gmail.com,24/02/2003,09:37:00,Thane ,Female,C.S.E AI&ML
+05/08/2024 14:29:25,36,Kavish Jain,,Kaven.jane08@gmail.com,08/06/2005,10:55:00,Udaipur,Male,C.S.E AI&ML
+05/08/2024 14:31:13,37,Jay Ganesh Thakare ,S.E,thakarejay2005@gmail.com,15/09/2005,11:55:00,Karjat,Male,C.S.E AI&ML
+05/08/2024 14:39:13,38,Arnav Sonune ,S.E,arnavsonune87@gmail.com,20/10/2005,18:30:00,Thane,Male,C.S.E AI&ML
+05/08/2024 14:41:17,39,Atharva Umesh Samant ,S.E,aabc19104@gmail.com,27/09/2004,19:00:00,"Badlapur, Thane ",Male,C.S.E AI&ML
+05/08/2024 14:50:16,40,Aayush Pradip Rokade,B.E,aayushrokade203@gmail.com,10/11/2003,23:00:00,Kalyan,Male,COMPUTER
+05/08/2024 14:57:35,41,Ovee Dolkar ,T.E,oveedolkar186@apsit.edu.in,04/01/2005,09:48:00,Thane,Female,COMPUTER
+05/08/2024 14:57:57,42,Pratik Gharat,T.E,Gharatpratik1@gmail.com,19/08/2004,16:45:00,Thane,Male,COMPUTER
+05/08/2024 14:59:00,43,Onkar Deshpande ,T.E,onkardeshpande67@apsit.edu.in,25/10/2004,14:45:00,Aurangabad ,Male,COMPUTER
+05/08/2024 15:02:58,44,Atharva Shelke,T.E,atharvashelke2303@gmail.com,23/03/2004,09:05:00,Mumbai,Male,COMPUTER
+05/08/2024 15:06:04,45,Mahesh Ram Shinde ,S.E,shindemaheshram13@gmail.com,13/09/2004,10:42:00,Airoli,Male,C.S.E AI&ML
+05/08/2024 15:13:01,46,Anish Yadav,T.E,anishheavenontheway@gmail.com,25/11/2004,02:00:00,Thane,Male,COMPUTER
+05/08/2024 15:18:19,47,Premanshu Patil,S.E,patilpremanshu@gmail.com,12/04/2006,00:05:00,Thane,Male,C.S.E AI&ML
+05/08/2024 15:25:58,48,Ishika Naik,T.E,ishikanaik2004@gmail.com,13/06/2004,03:00:00,Thane,Female,COMPUTER
+05/08/2024 15:28:09,49,Reyan Pawar,T.E,Reyanpawar@gmail.com ,13/04/2004,12:00:00,Thane(W),Female,COMPUTER
+05/08/2024 15:35:07,50,Pranali Gajendra Patil ,S.E,patilpranali8790@gmail.com,15/11/2006,01:00:00,Tuljapur ,Female,C.S.E AI&ML
+05/08/2024 15:50:36,51,Aryan kotur ,S.E,Aryankotur@gmail.com,03/03/2005,08:05:00,kalyan,Male,C.S.E AI&ML
+05/08/2024 16:02:28,52,Chirag Sawant ,T.E,chiragas2005@gmail.com,24/05/2005,01:10:00,Mumbai ,Male,COMPUTER
+05/08/2024 16:33:15,53,Sagar Rajkumar Mane,S.E,smane191005@gmail.com,19/10/2005,17:30:00,Satara,Male,C.S.E AI&ML
+05/08/2024 16:34:11,54,Varun Panchal ,S.E,panchalvarun141@gmail.com,15/03/2005,13:55:00,Ahemdabad ,Male,C.S.E AI&ML
+05/08/2024 16:52:31,55,Niraj Patel ,T.E,nirajpatel200419@gmail.com,19/01/2004,22:30:00,Prayagraj ,Male,C.S.E AI&ML
+05/08/2024 16:52:55,56,Aditya Rajendra Raorane ,B.E,21102173.aditya.raorane@gmail.com,16/07/2003,13:43:00,Vikhroli ,Male,COMPUTER
+05/08/2024 17:18:31,57,Anagha Aher ,B.E,anaghaaher15@gmail.com,15/11/1988,08:45:00,Nashik ,Female,C.S.E DS
+05/08/2024 17:40:08,58,Prachi Singh,S.E,ps9074888@gmail.com,02/09/2005,09:35:00,Raebareli,Female,C.S.E AI&ML
+05/08/2024 17:56:09,59,Mrunal Pradeep Shejwal ,S.E,shejwalmrunal@gmail.com,23/09/2004,08:15:00,Thane,Female,C.S.E AI&ML
+05/08/2024 17:59:05,60,Karan panchal,T.E,panchalkaran677@gmail.com ,17/07/2004,07:22:00,Thane,Male,COMPUTER
+05/08/2024 18:20:31,61,Lucky pradeep gupta,S.E,opkingf2@gmail.com,19/05/2005,12:45:00,Thane,Male,C.S.E AI&ML
+05/08/2024 20:03:14,62,Moksh balkrishna khule,S.E,Mokshkhule1@gmail.com,21/10/2004,04:00:00,Gadhinglaj,Male,C.S.E AI&ML
+05/08/2024 21:38:51,63,Tanuj Lalitkumar Sawale ,S.E,Sawaletanuj@gmail.com,10/12/2004,15:00:00,Dombivli,Male,COMPUTER
+05/08/2024 21:56:40,64,Mohammed Musab Mohammad Asif Shaikh ,T.E,musabimp.0@gmail.com,12/08/2004,00:00:00,Mumbai ,Male,COMPUTER
+05/08/2024 22:00:52,65,Chirag Bhausaheb Sawant,B.E,sawantch099@gmail.com,18/02/2003,10:00:00,Ambernath,Male,C.S.E AI&ML
+05/08/2024 22:20:52,66,Palak Upadhyaya,S.E,palakup04@gmail.com,04/10/2005,14:34:00,Durg,Female,C.S.E AI&ML
+05/08/2024 22:24:35,67,Shreyas Mhatre ,S.E,23104109@apsit.edu.in,30/04/2005,12:20:00,Alibag,Male,C.S.E AI&ML
+05/08/2024 22:49:05,68,Aachal Pandey ,S.E,aachalpandey2611@gmail.com,26/11/2005,09:57:00,Mumbai ,Female,C.S.E AI&ML
+05/08/2024 22:57:43,69,Suraj.A.Vishwakarma,T.E,suraj96560@gmail.com,11/06/2004,11:25:00,Thane,Male,C.S.E AI&ML
+06/08/2024 00:56:42,70,Aditya Hanamant Khande ,S.E,23106098@apsit.edu.in,05/01/2005,10:00:00,Nimbhore,Male,C.S.E AI&ML
+06/08/2024 08:22:51,71,Shreyash Gharge ,B.E,21106063.shreyash.gharge@gmail.com,24/04/2003,05:15:00,Satara,Male,C.S.E AI&ML
+06/08/2024 10:38:13,72,Siddhesh Jadhav ,B.E,21105001.siddhesh.jadhav@gmail.com,14/05/2003,11:00:00,Thane,Male,MECHANICAL
+06/08/2024 10:39:14,73,vedant bamankar,B.E,vedantbamankar12@gmail.com,05/10/2003,10:15:00,Kolhapur ,Male,MECHANICAL
+06/08/2024 10:40:16,74,Aditya Chougule ,B.E,chouguleaditya28@gmail.com,28/09/2003,15:00:00,Umarga ,Male,MECHANICAL
+06/08/2024 10:44:52,75,Prem Mahajan,S.E,23102177@apsit.edu.in,24/07/2004,14:12:00,Kalyan,Male,COMPUTER
+06/08/2024 10:51:22,76,Aishwarya Kirti Motling ,S.E,23102030@apsit.edu.in,18/05/2005,19:46:00,Thane,Female,COMPUTER
+06/08/2024 11:51:14,77,Hetal Girish Mahajan ,B.E,hetalmahajan09@gmail.com,09/01/2004,10:46:00,Ulhasnagar,Female,C.S.E AI&ML
+06/08/2024 16:51:04,78,Pramesh santosh sawant,T.E,prameshsawant10@gmail.com,27/04/2004,04:00:00,Mumbai,Male,MECHANICAL
+06/08/2024 16:56:42,79,Isha Pushpakant Takkar,T.E,itakkar1904@gmail.com ,19/06/2004,14:00:00,Mumbai,Female,MECHANICAL
+06/08/2024 17:01:20,80,Abhijeet chavan ,B.E,abhijeetchavan22222@gmail.com,23/02/2004,03:03:00,Jalna,Male,MECHANICAL
+06/08/2024 18:41:10,81,Samhita Vadlamudi ,S.E,samhita.vadlamudi@gmail.com,06/10/2005,08:31:00,Hyderabad ,Female,C.S.E AI&ML
+06/08/2024 20:47:03,82,Vinayak Mishra ,S.E,mishravinayak109@gmail.com,20/05/2004,10:52:00,Kalyan,Male,COMPUTER
+06/08/2024 21:05:05,83,Gaurav Parihar,S.E,pariharg229@gmail.com,07/12/2005,08:01:00,Pune,Male,MECHANICAL
+06/08/2024 21:33:28,84,Tushar Zaware ,S.E,zawaretushar9@gmail.com,23/04/2005,10:00:00,Uran,Male,C.S.E DS
+06/08/2024 21:56:03,85,Kartik Amritlal Parmar,T.E,kartik.kp2210@gmail.com,22/10/2004,10:13:00,Siyana ,Male,C.S.E AI&ML
+06/08/2024 22:39:01,86,Riya Upadhyay ,F.E,upadhyayriya005@gmail.com,07/04/2005,07:00:00,Maharashtra ,Female,COMPUTER
+07/08/2024 11:07:18,87,Prathamesh shailendra chauhan ,T.E,prathameshchauhan655@gmail.com,05/08/2004,02:15:00,Thane,Male,MECHANICAL
+07/08/2024 11:15:52,88,Viram Sagar Abbad ,T.E,viramabbad50@gmail.com,13/07/2004,10:55:00,Malegaon ,Male,COMPUTER
+07/08/2024 14:30:45,89,Kshitij Varma ,T.E,kshitij.varma5@gmail.com,05/04/2004,08:00:00,Thane,Male,COMPUTER
+07/08/2024 23:57:26,90,Aditya Hanamant Khande ,S.E,23106098@apsit.edu.in,05/01/2005,07:00:00,Nimbhore ,Male,C.S.E AI&ML
+08/08/2024 14:25:16,91,Arisha Sameer Mujawar ,T.E,arishamujawar899@gmail.com,29/08/2004,12:30:00,Thane ,Female,COMPUTER
+08/08/2024 23:55:42,92,Leher Talashilkar ,B.E,lehertalashilkar163@apsit.edu.in,08/11/2003,11:25:00,Dombivli,Female,COMPUTER
+09/08/2024 02:01:46,93,Sarvesh Niteen Bhartu ,S.E,sarveshbhartu@gmail.com,30/09/2005,07:30:00,Thane,Male,C.S.E AI&ML
+09/08/2024 13:59:16,94,Hrishikesh Kharkar ,T.E,hrishikeshkharkar10@gmail.com ,06/01/2004,01:00:00,Thane,Male,C.S.E AI&ML
+09/08/2024 14:08:30,95,Ayush Gupta ,T.E,guptaayush4306@gmail.com,20/01/2004,01:00:00,Buldhana,Male,C.S.E AI&ML
+09/08/2024 14:40:57,96,Pranjal Nikam,T.E,pranjaljnikam6@gmail.com,06/11/2004,09:45:00,Ahmednagar,Female,COMPUTER
+09/08/2024 19:41:42,97,Jigisha Karnik ,B.E,jigee003@gmail.com,24/04/2004,08:15:00,Thane,Female,IT
+10/08/2024 16:27:01,98,Aditi Chhatre ,B.E,aditichhatre1900@gmail.com,19/02/2001,18:00:00,Sambhaji nagar ,Female,IT
+11/08/2024 15:03:27,99,Ajay Santosh Chaurasiya ,B.E,21106045.ajay.chaurasia@gmail.com,11/08/2002,17:05:00,Kaushambi ,Male,C.S.E AI&ML
+11/08/2024 22:26:08,,Ovee Durgesh Dolkar,T.E,oveedolkar@gmail.com ,04/01/2005,09:48:00,Thane,Female,COMPUTER
+11/08/2024 22:59:55,,Rushikesh Wagh,B.E,rushiwagh612@gmail.com,06/12/2000,22:10:00,Mumbai,Male,MECHANICAL
+12/08/2024 00:13:32,,Shubham Tatkare,B.E,tatkareshubham29@gmail.com,19/06/2000,10:15:00,Mumbai,Male,CIVIL
+12/08/2024 20:03:08,,Vishal Gawali,B.E,gawalivishal331@gmail.com,08/05/2002,12:36:00,Mulund,Male,CIVIL
+12/08/2024 21:04:11,,Gitanjali Salvi ,T.E,gitanjalisalvi2004@gmail.com ,23/10/2004,17:22:00,"Roha, Raigad",Female,COMPUTER
+12/08/2024 21:09:03,,Soham Rao,T.E,sssssoham.rao@gmail.com,18/09/2004,17:00:00,Thane,Male,COMPUTER
+12/08/2024 21:10:41,,Kautuk Salvi,T.E,kautuk2112@gmail.com,21/12/2004,10:00:00,Thane(W),Male,COMPUTER
+12/08/2024 21:46:42,,Aishwarya patwatkar ,T.E,patwatkaraishwarya@gmail.com,21/09/2004,07:50:00,Thane,Female,COMPUTER
